@@ -1,8 +1,9 @@
 ,Model,Label,MAE,MAPE,Baseline
-1,Baseline_Shift_7,Brötchen,69.4319,16.91199,1
-2,Baseline_Moving_Average,Brötchen,77.56301,18.53019,1
-3,SARIMAX,Brötchen,61.373127,12.385237,0
-4,PROPHET,Brötchen,44.4898912,10.378933,0
-5,VAR,Brötchen,115.798833,30.71629,0
-6,Random Forest,Brötchen,56.0729,13.5356,0
-7,Winters Holt,Brötchen,104.805,29.1954,0
+0,Baseline_Moving_Average,Brötchen,77.56300999999998,18.53019,1.0
+1,Baseline_Shift_7,Brötchen,69.4319,16.91199,1.0
+2,PROPHET,Brötchen,44.4898912,10.378933,0.0
+3,Random Forest,Brötchen,56.0729,13.5356,0.0
+4,SARIMAX,Brötchen,61.373127,12.385237,0.0
+5,VAR,Brötchen,115.798833,30.71629,0.0
+6,VARMAX,Brötchen,55.045549,15.595870999999999,0.0
+7,Winters Holt,Brötchen,104.805,29.1954,0.0
