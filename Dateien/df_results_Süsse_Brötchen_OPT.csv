@@ -1,9 +1,0 @@
-,Model,Label,MAE,MAPE,Baseline
-0,Baseline_Moving_Average,Süsse_Brötchen,32.109803,13.787416,1.0
-1,Baseline_Shift_7,Süsse_Brötchen,29.227411,13.06203,1.0
-2,PROPHET,Süsse_Brötchen,19.969256,8.525503,0.0
-3,Random Forest,Süsse_Brötchen,23.653759,11.38131,0.0
-4,SARIMAX,Süsse_Brötchen,25.908363,11.215817,0.0
-5,VAR,Süsse_Brötchen,45.056058,22.667177,0.0
-6,VARMAX,Brötchen,22.584982,12.474085,0.0
-7,Winters Holt,Süsse_Brötchen,38.229343,19.018603,0.0
